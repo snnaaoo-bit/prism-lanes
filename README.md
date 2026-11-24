@@ -3,7 +3,7 @@
 プロセカ風の遊び方をした、オリジナルの6レーン音ゲー（ブラウザ・HTML 1枚）。
 キャラ・曲・絵はすべてオリジナル。曲は Web Audio でその場で作る。
 
-- 公開ページ（非公開・本人だけ）: https://claude.ai/artifact/UL17FedTqQ1VWythXd27PQ
+- **遊ぶ**: https://snnaaoo-bit.github.io/prism-lanes/ （PC・スマホ・iPad）
 - 手元で遊ぶ: `index.html` をブラウザで開く
 
 ## 操作
